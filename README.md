@@ -42,3 +42,6 @@ Running locally:
 
 #OUTPUT
 
+<img width="1910" height="898" alt="Image" src="https://github.com/user-attachments/assets/d68f8bae-f850-4a38-a82b-a3bedcbf8ad1" />
+
+<img width="1913" height="902" alt="Image" src="https://github.com/user-attachments/assets/a9acc878-471c-4314-8f62-a9aa60203799" />
